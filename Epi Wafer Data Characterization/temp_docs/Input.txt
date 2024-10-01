@@ -1,0 +1,40 @@
+# of rows: 16
+# of columns: 13
+*optional* BatchID: LEGroup
+x spacing: 0.7085
+x increment: 7.2
+x left value: -51.051
+x right value: 51.051
+y spacing: -0.76
+y increment: -5.4
+y bottomvalue: -48.9
+y topvalue: 48.9
+Cartridges to remove:
+A4
+A11
+B2
+B13
+C1
+C14
+K4
+K11
+A14
+B14
+I14
+J14
+K14
+A13
+J13
+K13
+A12
+K12
+A3
+K3
+A2
+J2
+K2
+A1
+B1
+I1
+J1
+K1
